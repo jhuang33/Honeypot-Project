@@ -1,0 +1,2 @@
+# Honeypot-Project
+Semester long project centered  around developing honeypot systems to answer a hypothesis regarding attacker behavior on the internet. This project contains scripts relating to the establishment of the honeypot, set up, and notes. In addition, this project contains a paper regarding the research and experiments that were conducted during that time
